@@ -336,7 +336,7 @@
                             "omaUri":  "./Device/Vendor/MSFT/Policy/Config/Chrome~Policy~googlechrome/DownloadRestrictions",
                             "secretReferenceValueId":  null,
                             "isEncrypted":  false,
-                            "value":  "\u003cenabled/\u003e \u003cdata id=\"DownloadRestrictions\" value=\"2\"/\u003e"
+                            "value":  "\u003cenabled/\u003e \u003cdata id=\"DownloadRestrictions\" value=\"1\"/\u003e"
                         },
                         {
                             "@odata.type":  "#microsoft.graph.omaSettingString",
